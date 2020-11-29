@@ -1,0 +1,5 @@
+
+<view class="container">
+<image class="logo" src="/images/logo-trans.png"></image>
+<button class="sign-up">Sign Up</button>
+</view>

@@ -1,0 +1,26 @@
+/* pages/landing/landing.wxss */
+
+.container {
+  height: 100vh;
+  background-color: ;
+}
+/* #333464 JX blue*/
+/* #ECD5B4 JX gold */
+.logo {
+  width: 250rpx;
+  height: 250rpx;
+}
+
+.sign-up {
+  color: #F3A36D;
+  background-color: #A72B31;
+  border: 1px solid #F3A36D;
+  border-radius: 10px;
+  /* box-shadow: 0 0 7px #F3A36D; */
+  font-weight: bold;
+}
+
+.sign-up:hover{
+  opacity: 0.8;
+  
+}
